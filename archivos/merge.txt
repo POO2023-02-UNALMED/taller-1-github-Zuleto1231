@@ -2,3 +2,8 @@ Manuel Zuleta Arango.
 21
 Mejorar mi nivel de programación y conocer a profundidad de su teoría.
 Ahora me deja commitear la carpeta debido a que esta no esta vacia.
+
+Modificar dos archivos al mismo tiempo en GitHub puede llevar a conflictos y problemas de fusión.
+Es más difícil mantener la claridad, revisar cambios y mantener la coherencia del proyecto.
+Es mejor hacer cambios en archivos diferentes en revisiones separadas para evitar estos problemas y garantizar
+ un flujo de trabajo más suave.
